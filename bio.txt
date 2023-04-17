@@ -1,0 +1,4 @@
+Mi nombre es Federico
+nací el 11-10-1987
+Me gusta java, js
+No me gusta el gym
